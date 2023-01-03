@@ -1,3 +1,4 @@
 # python&python libraries
-#Libraries
-[Matplotlib](matplotlib.ipynb)
+# **Libraries**
+
+1. [Matplotlib](matplotlib.ipynb)
